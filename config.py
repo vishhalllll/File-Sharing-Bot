@@ -1,8 +1,5 @@
 #(©)CodeXBotz
-import pyrogram.utils
 
-pyrogram.utils.MIN_CHANNEL_ID = -1002074173405
-pyrogram.utils.MIN_CHANNEL_ID = -1002022425228
 import os
 import logging
 from dotenv import load_dotenv
